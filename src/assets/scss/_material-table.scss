@@ -1,0 +1,15 @@
+.MuiPaper-elevation2 {
+    box-shadow: none !important;
+}
+
+.MuiTablePagination-root {
+    border: none !important;
+}
+
+.MuiTableRow-footer {
+    border: none !important;
+
+    &:hover {
+        background-color: #fff !important;
+    }
+}
