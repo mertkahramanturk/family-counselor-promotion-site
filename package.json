@@ -1,6 +1,7 @@
 {
   "name": "landrick",
   "version": "2.0.0",
+  "homepage": "http://aylindemir.com.tr",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -28,12 +29,13 @@
     "react-modal-video": "^1.2.8",
     "react-router-dom": "^5.2.0",
     "react-router-scroll-top": "^0.2.1",
+    "react-scripts": "^5.0.0",
     "react-scroll-up-button": "^1.6.4",
     "react-select": "^5.2.2",
     "react-star-ratings": "^2.3.0",
     "reactstrap": "^8.9.0",
     "remark-breaks": "^3.0.2",
-    "webpack": "4.44.0"
+    "webpack": "^4.46.0"
   },
   "scripts": {
     "start": "react-scripts start",
